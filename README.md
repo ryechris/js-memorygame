@@ -1,8 +1,8 @@
 # Memory Game
 
-This is a classic example of a Memory Game.
+This is a locus classicus of a Memory Game.
 
-You can play the game here: [https://call900913.github.io/js-memorygame](https://call900913.github.io/js-memorygame).
+You can play the game here: [https://ryechris.github.io/js-memorygame](https://ryechris.github.io/js-memorygame).
 
 ## Game Features
 The game features 16 cards that face down.
